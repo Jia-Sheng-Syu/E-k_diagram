@@ -1,5 +1,5 @@
 clear; clc; close all;
-%Time Binding Parameters(GaAs)
+%Time Binding Parameters(GaP)
 P1=-6.28478;
 P2=-2.78920;
 P3=1.09428;
